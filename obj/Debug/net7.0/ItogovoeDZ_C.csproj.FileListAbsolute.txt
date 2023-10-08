@@ -1,0 +1,15 @@
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\bin\Debug\net7.0\ItogovoeDZ_C.exe
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\bin\Debug\net7.0\ItogovoeDZ_C.deps.json
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\bin\Debug\net7.0\ItogovoeDZ_C.runtimeconfig.json
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\bin\Debug\net7.0\ItogovoeDZ_C.dll
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\bin\Debug\net7.0\ItogovoeDZ_C.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.csproj.AssemblyReference.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.AssemblyInfoInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.AssemblyInfo.cs
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.csproj.CoreCompileInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.dll
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\refint\ItogovoeDZ_C.dll
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ItogovoeDZ_C.genruntimeconfig.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Itogovoe_DZ_-C-\ItogovoeDZ_C\obj\Debug\net7.0\ref\ItogovoeDZ_C.dll

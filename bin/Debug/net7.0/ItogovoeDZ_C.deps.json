@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ItogovoeDZ_C/1.0.0": {
+        "runtime": {
+          "ItogovoeDZ_C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ItogovoeDZ_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
